@@ -6,10 +6,10 @@ require (
 	github.com/fern-api/generator-exec-go v1.0.41
 	github.com/google/uuid v1.6.0
 	github.com/hmdsefi/gograph v0.7.1
-	github.com/stretchr/testify v1.12.0
+	github.com/stretchr/testify v1.12.1
 	go.uber.org/multierr v1.11.0
 	golang.org/x/mod v0.40.0
 	golang.org/x/tools v0.49.0
 )
 
-require gopkg.in/yaml.v3 v3.0.1 // indirect
+require go.yaml.in/yaml/v3 v3.0.5 // indirect
